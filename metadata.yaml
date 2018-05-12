@@ -1,0 +1,36 @@
+_repo: The-Sport-of-the-Gods_17854
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunbar, Paul Laurence
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '6269'
+    url: http://www.gutenberg.org/2009/agents/6269
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
+description: "The Sport of the Gods is a novel by Paul Laurence Dunbar, first published\
+  \ in 1902, centered on American urban black life. Forced to leave the South, a family\
+  \ falls apart amid the harsh realities of Northern inner city life in this 1902\
+  \ examination of the forces that extinguish the dreams of African Americans.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17854'
+  wikidata: Q7766020
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American families -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Rural-urban migration -- United States -- Fiction'
+title: The Sport of the Gods
+url: http://www.gutenberg.org/ebooks/17854
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Sport_of_the_Gods
